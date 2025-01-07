@@ -1,6 +1,7 @@
-### React
-### Bootstrap
-### Axios
+### ExpressJS
+### Passport
 
-![pic](https://raw.githubusercontent.com/tattyola/kanban-client/main/public/images/pic.png)
-![pic](https://raw.githubusercontent.com/tattyola/kanban-client/main/public/images/pic2.png)
+#### Start server
+
+`npm run start`
+
